@@ -2,8 +2,6 @@
 ```
 Bruteforce attack for Facebook Account
 ```
-## Find here a video on YouTube
-https://www.youtube.com/watch?v=rvAKiK4jDZs&ab_channel=DadSeeC2.0
 
 ## Install Requirements (on Linux)
 ```
@@ -28,9 +26,6 @@ https://www.youtube.com/watch?v=rvAKiK4jDZs&ab_channel=DadSeeC2.0
 * Use Strong Password(which contains standard password chars + longest as possible)
 * Use 2F Authentication.
 * Make location based login(+browser based).
-
-## Explore More in Hacking ...
-https://www.facebook.com/B14CKH4K3R/
 
 ~~~
 Happy Hacking Day! (Just For Knowledge).
